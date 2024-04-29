@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: pe.edu.upc.EduPack_Solutions_sem5.DemoSx61ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 31.85 s -- in pe.edu.upc.EduPack_Solutions_sem5.DemoSx61ApplicationTests
